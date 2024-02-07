@@ -1,10 +1,5 @@
-- Getting started
+- [Home](README.md)
 
-  - [Installation](installation.md)
-  - [Configuration](configuration.md)
-  - [Docsify-themeable-setup](docsifyThemeable.md)
-  - [Theme Support](themeSupport.md)
-
-- Others
-  - [Showcase](showcase.md)
-  - [Changelog](changelog.md)
+- Credits
+  - [Docsify darklight theme](darklight.md)
+  - [Docsify](docsify.md)
