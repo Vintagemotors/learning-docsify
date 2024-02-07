@@ -1,4 +1,4 @@
-- [Home](README.md)
+- [Index](README.md)
 
 - Credits
   - [Docsify darklight theme](darklight.md)
