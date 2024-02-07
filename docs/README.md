@@ -5,12 +5,12 @@
 Go [here](https://makefiletutorial.com/) for advanced stuff. 
 
 
-## <p style="text-align: center;">Building and installing applications you downloaded that already have a Makefile</p>
+## <p style="text-align: center;">Building + installing with Makefile</p>
 
 Go to the source folder you downloaded and extract it. Open a terminal. If the source directory already has a build folder cd to it, if not cd to the source directory and run "mkdir build" then "cd build" after that run "make" if you are on a UNIX system (like Linux or MacOS) and you want the application to be installed where your normal applications are so you can find it easily and search for it run "make install". 
 
 
-## <p style="text-align: center;">Building and installing applications you downloaded that only have a CMakelists.txt</p>
+## <p style="text-align: center;">Building + installing from CMakelists.txt</p>
 
 Go to the source folder you downloaded and extract it. Open a terminal. If the source directory already has a build folder cd to it, if not cd to the source directory and run "mkdir build" then "cd build" after that run "cmake .." then run "make" if you are on a UNIX system (like Linux or MacOS) and you want the application to be installed where your normal applications are so you can find it easily and search for it run "make install". 
 
